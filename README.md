@@ -34,7 +34,7 @@
 <img src="https://user-images.githubusercontent.com/36138628/230306412-43a5f316-bd54-4d2a-b196-210656e74683.png" width="500"/>
 
 🌟 MMPreTrain is a newly upgraded open-source framework for visual pre-training. It has set out to provide multiple powerful pre-trained backbones and support different pre-training strategies.
-conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.6 -c pytorch -c nvidia![image](https://github.com/user-attachments/assets/7534a3b4-8430-4711-bee3-8bb1bec34165)
+![image](https://github.com/user-attachments/assets/7534a3b4-8430-4711-bee3-8bb1bec34165)
 
 :point_right: **MMPreTrain 1.0 branch is in trial, welcome every to [try it](https://github.com/open-mmlab/mmclassification) and [discuss with us](https://github.com/open-mmlab/mmclassification/discussions)!** :point_left:
 
@@ -67,6 +67,8 @@ English | [简体中文](README_zh-CN.md)
 </div>
 
 ## Introduction
+
+conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.6 -c pytorch -c nvidia
 
 MMSelfSup is an open source self-supervised representation learning toolbox based on PyTorch. It is a part of the [OpenMMLab](https://openmmlab.com/) project.
 
